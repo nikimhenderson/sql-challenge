@@ -68,4 +68,3 @@ Links to an external site..
 
 -ERD should be found in EmployeeSQL folder under "QuickDBD-export.png"
 
-With help from my tutor Luna and ASKBCS with my ERD and loading issues
